@@ -18,7 +18,7 @@ When the company receives a loan application, the company has to decide for loan
 <br>
 
 **There can be 2 types of customers :**
-  - The client with payment difficulties: he/she had late payment more than X days on at least one of the first Y instalments of the loan in our sample,
+  - The client with payment difficulties: he/she had late payment more than X days on at least one of the first Y instalments of the loan in our sample.
   - All other cases: All other cases when the payment is paid on time.
 
 <br>
