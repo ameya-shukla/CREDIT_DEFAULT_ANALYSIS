@@ -1,4 +1,4 @@
-# CREDIT_EDA_Case_Study
+# CREDIT_DEFAULT_ANALYSIS
 Performed EDA on a credit dataset to find insights and patterns on various factors that define customers who are likely to default and the ones who are likely to repay the loan on time.
 
 In this case study, we applied EDA on a real world business problem and understood the concept of risk analytics that are used in banks and financial services for various security purposes.
